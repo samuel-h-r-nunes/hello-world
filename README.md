@@ -1,2 +1,3 @@
 # hello-world
-testing
+
+Hey there, creating my first repository on github! :)
